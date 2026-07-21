@@ -64,7 +64,7 @@ A machine learning system that analyzes healthcare data to identify patients at 
 
 🎯 **Result:** 91% prediction accuracy
 
-📂 Repository: [Add your repo link here]
+📂 Repository: ["https://github.com/VikramNolan/Brain-Stroke-Prediction-Using-Machine-Learning"]
 
 ---
 

@@ -81,12 +81,15 @@ Exploratory data analysis and visualization projects covering data cleaning, fea
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img height="170" src="https://github-readme-stats-eight.vercel.app/api?username=VikramNolan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eight.vercel.app/api?username=VikramNolan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-> Note: these cards are served by a free, shared community instance. If they ever show "Something went wrong" or don't load, it's a temporary rate-limit/outage on their end, not your profile — just refresh in a few minutes, or see the note at the bottom of this file for a permanent self-hosted fix.
+<!-- Add this note if you want to keep the warning -->
+> **Note:** If these cards show "Something went wrong", it's due to GitHub API rate limiting. Add a `PAT_1` environment variable with your GitHub token to fix this permanently.
 
 ---
 

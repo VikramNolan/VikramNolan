@@ -225,28 +225,3 @@ This README is free to use and modify. Feel free to customize it for your own pr
 
 ---
 
-## 🚀 Quick Setup Instructions
-
-1. Fork this repository or create a new one named exactly like your GitHub username (special profile repo).
-2. Replace `VikramNolan` with your GitHub username in:
-   - API URLs (github-readme-stats, streak-stats, activity-graph, profile-trophy)
-   - Visitor counter link (`komarev.com/ghpvc`)
-3. Add your own projects in the **Featured Projects** section.
-4. Update the **2026 Goals** section with your personal goals.
-5. Customize colors and badges to match your style.
-6. Commit and push to GitHub.
-
-**Optional — self-host GitHub Stats for reliability:**
-Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account, and add an environment variable `PAT_1` set to a GitHub personal access token. Then swap the stats URLs above for your own Vercel deployment URL.
-
----
-
-## 💡 Pro Tips
-
-- **Keep it updated** — Regularly refresh your stats and projects.
-- **Add screenshots** — Include images of your projects for visual appeal.
-- **Personalize it** — Add your own quotes, fun facts, or GIFs.
-- **Check links** — Ensure all your social links and repositories work.
-- **Mobile-friendly** — Test how it looks on mobile devices.
-
-*Made with ❤️ by Vikram S*

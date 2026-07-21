@@ -1,155 +1,42 @@
-<h1 align="center">Hi 👋, I'm Vikram S</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 
-<h3 align="center">
-🐍 Python Developer | 📊 Data Enthusiast | 🌱 Turning Data Into Decisions
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hello+👋+I'm+Vikram+S;Python+Developer;Data+Enthusiast;Problem+Solver" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+Data+Enthusiast;Pandas+%7C+NumPy+%7C+Scikit-learn;Building+Data-Driven+Solutions;Always+Learning%2C+Always+Building!" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Sc. Information Technology graduate, passionate about **Python development** and **data-driven problem solving**.
-- 🐍 I love writing clean Python code and turning messy data into useful insight.
-- 📈 Built a machine learning system that predicts stroke risk with **91% accuracy** — check it out below!
-- 🌱 Currently sharpening my skills in **Data Structures & Algorithms**, **SQL**, and **Machine Learning**.
-- 🤝 Open to entry-level Python Developer / Data Analyst opportunities and open-source collaboration.
-- ⚡ Fun fact: I'd rather debug a stubborn `for` loop than watch a movie.
+```python
+class VikramS:
+    def __init__(self):
+        self.name = "Vikram S"
+        self.role = "Python Developer | Data Enthusiast"
+        self.education = "B.Sc. Information Technology"
+        self.location = "Theni, Tamil Nadu, India"
+        self.interests = ["Python", "Data Science", "Machine Learning", "SQL"]
+        self.current_goal = "Land my first Python Developer role"
+        self.fun_fact = "I turn coffee ☕ into code and data into decisions 📊"
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
 
----
+me = VikramS()
+me.say_hi()
 
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/vikram-s-a560a42bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:svikram0530@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/VikramNolan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,java,c,mysql,git,github,vscode,anaconda,latex"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🩺 Intelligent Stroke Prediction System
-A machine learning system that analyzes healthcare data to identify patients at risk of stroke, supporting early, preventive decision-making.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-🎯 **Result:** 91% prediction accuracy
-
-📂 Repository: ["https://github.com/VikramNolan/Brain-Stroke-Prediction-Using-Machine-Learning"]
-
----
-
-### 📊 Data Analysis Projects *(add yours here)*
-Exploratory data analysis and visualization projects covering data cleaning, feature engineering, and insight generation.
-
-**Tech Stack**
-
-`Python` `Pandas` `Matplotlib` `SQL`
-
-📂 Repository: [Add your repo link here]
-
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats-eight.vercel.app/api?username=VikramNolan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- Add this note if you want to keep the warning -->
-> **Note:** If these cards show "Something went wrong", it's due to GitHub API rate limiting. Add a `PAT_1` environment variable with your GitHub token to fix this permanently.
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramNolan&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VikramNolan&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms (advanced)
-- SQL for data analytics
-- Machine Learning model deployment (Flask/FastAPI)
-- Git & GitHub collaboration workflows
-
----
-
-## 🎯 Goals for 2026
-
-- ✅ Land my first Python Developer role
-- ✅ Build and publish 3+ real-world Python/data projects
-- ✅ Contribute to open-source Python projects
-- ✅ Get comfortable deploying ML models end-to-end
-
----
-
-## 💡 Favorite Quote
-
-> "Data is the new oil, but insight is the engine." 
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=VikramNolan&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p>
+💻 Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> </p>
+📊 Data Science Stack
+<p> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> </p>
+🛠️ Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> </p>

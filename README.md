@@ -1,227 +1,115 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Vikram+S;Python+Developer;Data+Enthusiast;Problem+Solver" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-```python
-class VikramS:
-    def __init__(self):
-        self.name = "Vikram S"
-        self.role = "Python Developer | Data Enthusiast"
-        self.education = "B.Sc. Information Technology"
-        self.location = "Theni, Tamil Nadu, India"
-        self.interests = ["Python", "Data Science", "Machine Learning", "SQL"]
-        self.current_goal = "Land my first Python Developer role"
-        self.fun_fact = "I turn coffee ☕ into code and data into decisions 📊"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
-
-me = VikramS()
-me.say_hi()
-```
-
-## 🌟 What I Bring to the Table
-
-- 🔹 **Python Development** — Clean, modular, and efficient code with OOP principles
-- 🔹 **Data Analysis** — Transforming raw data into actionable insights with Pandas & NumPy
-- 🔹 **Machine Learning** — Building predictive models with Scikit-learn (91% accuracy on stroke prediction!)
-- 🔹 **SQL Expertise** — Writing complex queries, joins, and optimizing database performance
-- 🔹 **Problem Solving** — Strong foundation in Data Structures & Algorithms
+<!--
+[Header]: A modern, clean header with a subtle gradient and a personal tagline.
+-->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Vikram+S;Python+Developer;Data+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <br><br>
+  <p>
+    <b>👨‍💻 Turning raw data into actionable insights | Building intelligent systems to solve real-world problems</b>
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/vikram-s-a560a42bb" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:svikram0530@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/VikramNolan" target="_blank">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🔗 Let's Connect
+### 🧠 The Data-Driven Developer
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vikram-s-a560a42bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-<a href="mailto:svikram0530@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-<a href="https://github.com/VikramNolan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-</a>
-</p>
+I'm a passionate Python developer and data enthusiast based in Theni, India, with a B.Sc. in Information Technology. My professional philosophy is built on the intersection of clean, efficient code and the power of data to drive decisions.
+
+I don't just write code; I build solutions. From developing machine learning models that predict health risks to performing deep-dive exploratory data analysis, I translate complex datasets into clear, impactful stories. My current mission is to secure my first professional role where I can leverage my skills in **Python, Machine Learning, and Data Analysis** to create tangible value.
+
+My work is driven by a core belief: **"Data is the new oil, but insight is the engine that drives innovation."**
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ Core Competencies
 
-**💻 Languages**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-</p>
-
-**📊 Data Science Stack**
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
-
-**🛠️ Tools & Platforms**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
+| Area | Skills & Technologies |
+| :--- | :--- |
+| **Programming Languages** | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> |
+| **Data Science & ML** | <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"> |
+| **Tools & Platforms** | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"> |
 
 ---
 
-## 🏆 Featured Projects
+### 🏆 Featured Work: Intelligent Stroke Prediction
 
-### 🩺 Intelligent Stroke Prediction System
-*Predicting stroke risk with 91% accuracy using machine learning*
+**Predicting health risks with a 91% accurate machine learning model.**
 
-| Aspect | Details |
-|---|---|
-| **Goal** | Early detection of stroke risk from healthcare data |
-| **Tech Stack** | Python, Pandas, NumPy, Scikit-learn |
-| **Key Features** | Data preprocessing, EDA, Feature engineering, Classification |
-| **Result** | 🎯 91% prediction accuracy |
-| **Impact** | Supports preventive healthcare decisions |
+This project is a testament to my ability to build a complete, end-to-end data science solution. It leverages healthcare data to identify individuals at high risk of stroke, potentially enabling early intervention.
 
-📂 [View Repository](https://github.com/VikramNolan/Brain-Stroke-Prediction-Using-Machine-Learning)
+**Process & Impact:**
+1.  **Data Preprocessing:** Cleaned and prepared a complex, real-world dataset.
+2.  **Exploratory Data Analysis (EDA):** Uncovered critical patterns and relationships within the data.
+3.  **Model Development & Tuning:** Built and optimized a Random Forest classifier, rigorously testing and tuning to achieve **91% accuracy**.
+4.  **Impact:** Provides a robust, data-driven tool that supports preventive healthcare decisions.
 
-<details>
-<summary><b>📊 Project Highlights</b></summary>
-<br>
+**Technologies Used:** `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`.
 
-- Performed extensive Exploratory Data Analysis (EDA)
-- Implemented feature engineering techniques
-- Optimized model using hyperparameter tuning
-- Achieved 91% accuracy with Random Forest classifier
-- Maintained clean, documented codebase with Git
-
-</details>
+---
 
 ### 📈 Data Analysis Portfolio
-*Exploratory data analysis projects across various domains*
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏠 Housing Price Analysis | EDA on housing data to identify price drivers | Pandas, Matplotlib |
-| 📦 Sales Data Analytics | Sales trends and customer segmentation | Pandas, SQL |
-| 🌍 COVID-19 Data Analysis | Analyzing pandemic trends and statistics | NumPy, Pandas |
+A collection of projects demonstrating my ability to derive insights from diverse datasets.
 
-📂 [Add your repo link here](#)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramNolan&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF"/>
-</p>
-
-> **Note:** these cards are served by the official free, shared `github-readme-stats.vercel.app` instance. If they ever show "Something went wrong," it's usually a temporary rate limit on their end — refresh in a few minutes, or self-host your own copy (see the Quick Setup section below) for a permanent fix.
+| Project | Objective | Tech Stack |
+| :--- | :--- | :--- |
+| **🏠 Housing Price Analysis** | Performed EDA to identify key factors driving real estate prices. | `Python`, `Pandas`, `Matplotlib` |
+| **📦 Sales Data Analytics** | Analyzed sales trends and performed customer segmentation. | `Python`, `Pandas`, `SQL` |
+| **🌍 COVID-19 Data Analysis** | Analyzed global pandemic trends and statistics. | `Python`, `NumPy`, `Pandas` |
 
 ---
 
-## 🏆 GitHub Trophies
+### 🚀 Current Focus & 2026 Roadmap
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=VikramNolan&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
-</a>
-</p>
+I am actively building my skills and portfolio to make a significant contribution to the tech industry.
 
----
+**📚 Learning & Growth:**
+*   **Advanced Python:** Diving into design patterns and decorators.
+*   **ML Ops:** Learning to deploy models with **Flask/FastAPI**.
+*   **Data Engineering:** Exploring ETL pipelines and data warehousing.
 
-## 🎯 Current Focus
-
-**📚 Learning Roadmap**
-
-- 🚀 Advanced Python — Design patterns, decorators, generators
-- 🧠 Machine Learning — Model deployment with Flask/FastAPI
-- 📊 Data Engineering — ETL pipelines, data warehousing
-- 🔐 Database Mastery — Advanced SQL, query optimization
-- 🌐 Open Source — Contributing to Python projects
-
-**🎯 2026 Goals**
-
-- [x] Build and deploy a machine learning project
-- [x] Achieve 90%+ accuracy on a classification problem
-- [x] Create a professional GitHub portfolio
-- [ ] Land my first Python Developer role
-- [ ] Contribute to 3+ open-source projects
-- [ ] Learn Flask/FastAPI for model deployment
-- [ ] Build 5+ data analysis projects
-- [ ] Master advanced SQL techniques
+**🎯 2026 Milestones:**
+*   Build and deploy a machine learning project to a live environment.
+*   Contribute to 3+ impactful open-source projects.
+*   Secure a **Python Developer** or **Data Analyst** role.
+*   Master advanced SQL and database optimization.
 
 ---
 
-## 💬 Let's Collaborate!
+### 📊 GitHub Analytics
 
-I'm actively looking for:
-
-- 🔹 Entry-level Python Developer roles
-- 🔹 Data Analyst internship opportunities
-- 🔹 Open-source collaboration
-- 🔹 Hackathon team members
-
-📧 **Reach out:** svikram0530@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/vikram-s-a560a42bb](https://www.linkedin.com/in/vikram-s-a560a42bb/)
-
----
-
-## 💡 Quote I Live By
-
-> "Data is the new oil, but insight is the engine that drives innovation."
+<div align="center">
+  <a href="https://github.com/VikramNolan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Vikram's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=radical&hide_border=true" alt="Vikram's Top Languages"/>
+  </a>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=radical&hide_border=true" alt="Vikram's GitHub Streak"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+### 🤝 Let's Connect and Collaborate!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=Profile%20Views&color=0e75b6&style=flat&labelColor=0D1117"/>
-</p>
+I am actively seeking opportunities, collaborations, and conversations. If you have a project in mind or know of an opportunity, let's talk.
 
-<p align="center">
-  <b>✨ Thanks for visiting! Let's connect and build something amazing together ✨</b>
-</p>
+*   **Open to:** Entry-level Python/Data roles, internships, hackathons, and open-source projects.
+*   **📧 Email:** svikram0530@gmail.com
+*   **💼 LinkedIn:** [linkedin.com/in/vikram-s-a560a42bb](https://linkedin.com/in/vikram-s-a560a42bb)
 
----
-
-## 📝 License
-
-This README is free to use and modify. Feel free to customize it for your own profile!
-
-----
-
+<div align="center">
+  <i>Thanks for stopping by! Let's build something amazing together.</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>

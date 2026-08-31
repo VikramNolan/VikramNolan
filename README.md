@@ -1,87 +1,230 @@
-<h1 align="center">Hi 👋, I'm Vikram S</h1>
-<h3 align="center">Python Developer | Machine Learning Enthusiast | Data Analyst</h3>
+# Hi 👋, I'm Vikram S
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Turning+raw+data+into+clean+insights;Python+%7C+Pandas+%7C+Scikit-learn+%7C+SQL;Always+learning%2C+always+debugging+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+### 🚀 AI/ML Engineer | Machine Learning | Generative AI | LLMs | RAG
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikram-s-a560a42bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:svikram0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/VikramNolan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+I'm an aspiring **AI/ML Engineer** passionate about building practical,
+data-driven and intelligent solutions using **Machine Learning, Deep Learning,
+Generative AI and Large Language Models**.
 
----
-
-### 🚀 About Me
-
-- 🎓 B.Sc. Information Technology graduate (Madurai Kamaraj University, CGPA 7.3)
-- 🔭 Currently exploring **Machine Learning** and **Data Analytics** with Python
-- 💼 Completed an **ML Internship** at Phoenix Softech, building data pipelines with Pandas, NumPy & Scikit-learn
-- 🩺 Built an **Intelligent Stroke Prediction System** with **91% model accuracy**
-- 🏆 2x competitive programming / software dev award winner
-- 🌱 Seeking entry-level roles as **Python Developer / Junior ML Engineer / Data Analyst**
-- 📫 Reach me: **svikram0530@gmail.com**
+I work primarily with **Python** and have hands-on experience in data
+preprocessing, exploratory data analysis, feature engineering, machine learning
+model development, evaluation, and AI application development.
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,mysql,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+- 🤖 Focused on **Artificial Intelligence & Machine Learning**
+- 🧠 Interested in **Generative AI, LLMs and RAG applications**
+- 🐍 Strong foundation in **Python**
+- 📊 Experienced with **Data Analysis & Machine Learning workflows**
+- 🔬 Interested in **Deep Learning & Computer Vision**
+- 🔗 Exploring **LangChain, LangGraph and LlamaIndex**
+- ⚡ Building APIs using **FastAPI & Flask**
+- ☁️ Familiar with **AWS EC2 & S3**
+- 🐳 Interested in production-oriented ML applications
+- 🎯 Goal: Build scalable and reliable **AI/ML solutions for real-world problems**
 
 ---
 
-### 📌 Featured Project
+## 🛠️ Technical Skills
 
-<a href="https://github.com/VikramNolan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction-system&theme=radical&hide_border=true" />
-</a>
+### 👨‍💻 Programming & Development
 
-**🧠 Intelligent Stroke Prediction System** — A classification model built with Pandas, NumPy & Scikit-learn to predict stroke risk from healthcare data, reaching **91% accuracy** through careful feature engineering and EDA.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br clear="left"/>
+### 🤖 Machine Learning & AI
 
-> 💡 Update the repo name above to match your actual GitHub repo so the pin card renders correctly.
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Machine Learning • Deep Learning • Generative AI • LLMs • NLP  
+Computer Vision • Predictive Modeling • Time Series Analysis  
+Model Evaluation • Feature Engineering • Prompt Engineering**
+
+### 🧠 Generative AI & LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
+
+**RAG • LLM Applications • LangChain • LangGraph • LlamaIndex  
+Hugging Face Transformers • OpenAI API • Prompt Engineering**
+
+### 📊 Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+**Pandas • NumPy • Matplotlib • Seaborn • EDA • Statistical Analysis**
+
+### 🗄️ Databases & Vector Databases
+
+**SQL • Pinecone • FAISS • ChromaDB • Neo4j**
+
+### 🌐 APIs & Deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**REST APIs • GraphQL • FastAPI • Flask**
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AWS EC2 • AWS S3 • Docker • Git • GitHub Actions • CI/CD**
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=radical&hide_border=true" />
-</p>
+## 🧠 Intelligent Stroke Prediction System
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=radical&hide_border=true" />
-</p>
+**Machine Learning | Python | Pandas | NumPy | Scikit-learn**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramNolan&theme=redical&hide_border=true" />
-</p>
+Developed an end-to-end machine learning system to identify potential stroke
+risk using patient health and demographic attributes.
 
----
+### Key Work
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Classification
+- Model evaluation
+- Machine learning workflow development
 
-### 🏆 Awards
-
-- 🥈 2nd Place — Brainiac Clash-2K24, Software Development, Mary Matha Arts & Science College (Mar 2025)
-- 🥈 2nd Place — IT Chrysalis, Jayaraj Annapackiam College for Women (Sep 2024)
+The project demonstrates how healthcare data can be transformed into
+actionable predictions for early risk assessment.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=Profile+Views&color=00E676&style=for-the-badge" />
-</p>
+## 🧬 Brain Tumor Detection & Classification from MRI Images
 
-<p align="center"><i>⚡ Thanks for stopping by — always open to Python / ML / Data collaborations!</i></p>
+**Deep Learning | TensorFlow | Keras | CNN | Computer Vision**
+
+Implemented a deep learning-based medical image classification system for
+analyzing MRI images and identifying brain tumor patterns.
+
+### Key Work
+- MRI image preprocessing
+- Dataset organization
+- Training and testing data separation
+- CNN implementation
+- Image classification
+- Model evaluation
+- Visualization
+- Keras model storage for future inference
+
+---
+
+## 💰 Medical Insurance Cost Prediction
+
+**Machine Learning | Python | Pandas | NumPy | Scikit-learn**
+
+Built a predictive analytics solution for estimating individual medical
+insurance costs using demographic and lifestyle-related attributes.
+
+### Key Work
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature transformation
+- Regression-based ML
+- Cost prediction
+- Data-driven insurance analysis
+
+---
+
+## 🏭 AI-Based Predictive Maintenance
+
+**Artificial Neural Network | Machine Learning | Industrial Sensor Data**
+
+Developed an AI-powered predictive maintenance solution to identify potential
+industrial machine failures before they occur.
+
+### Sensor Parameters
+- 🌡️ Air Temperature
+- 🌡️ Process Temperature
+- ⚙️ Rotational Speed
+- 🔧 Torque
+- 🛠️ Tool Wear
+
+### Key Work
+- Industrial sensor data analysis
+- Pattern identification
+- ANN-based classification
+- Machine failure prediction
+- Proactive maintenance analysis
+
+---
+
+# 💼 Experience
+
+### Machine Learning Intern — Phoenix Softech
+
+**May 2025 – June 2025**
+
+During my internship, I worked on Python-based data processing and machine
+learning workflows.
+
+### Responsibilities
+
+- Developed and debugged Python scripts for data collection and preprocessing
+- Worked with Pandas, NumPy and Scikit-learn
+- Developed reusable Python functions for data processing
+- Supported machine learning model testing and evaluation
+- Performed debugging and performance analysis
+- Applied data validation techniques to structured datasets
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science — Information Technology
+
+**Madurai Kamaraj University, Theni**
+
+**2023 – 2026 | CGPA: 7.2**
+
+---
+
+# 🏆 Achievements
+
+🥈 **2nd Place — Brainiac Clash-2K24**
+
+Software Development Competition  
+Mary Matha Arts & Science College  
+**13 March 2025**
+
+🥈 **2nd Place — IT Chrysalis**
+
+Jayaraj Annapackiam College for Women  
+**11 September 2024**
+
+---
+
+# 📚 Currently Interested In
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Generative AI
+        ↓
+Large Language Models
+        ↓
+RAG Applications
+        ↓
+AI Agents
+        ↓
+Production AI/ML Applications

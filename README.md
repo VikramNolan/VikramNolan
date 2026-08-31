@@ -1,103 +1,201 @@
-Vikram S
-Data Science & Machine Learning Professional
+<!-- HEADER -->
+<div align="center">
+  <h1>👋 Hi, I'm Vikram S</h1>
+  <h3>Data Science & Machine Learning Professional</h3>
+  
+  <!-- Social Links -->
+  <p>
+    <a href="https://www.linkedin.com/in/vikramnolan">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/VikramNolan">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="mailto:svikram0530@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://github.com/VikramNolan">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+  
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+---
 
-👨‍💻 About Me
-Hello! I'm Vikram, a motivated Data Science and Machine Learning professional with hands-on experience in building end-to-end data solutions. I'm passionate about transforming raw data into actionable insights and developing production-oriented ML applications.
+<!-- About Me Section -->
+## 🧑‍💻 About Me
 
-🔭 I’m currently working on projects involving Generative AI, LLMs, and Predictive Modeling.
+I'm a passionate **Data Science and Machine Learning** professional with hands-on experience in building end-to-end data solutions. I love transforming raw data into actionable insights and developing production-oriented ML applications.
 
-🌱 I’m continuously learning and exploring LangChain, RAG, and advanced Deep Learning architectures.
+- 🔭 Currently working on projects involving **Generative AI**, **LLMs**, and **Predictive Modeling**
+- 🌱 Continuously learning **LangChain**, **RAG**, and advanced **Deep Learning** architectures
+- 👯 Looking to collaborate on open-source projects in healthcare, finance, or industrial AI
+- 💬 Ask me about **Python**, **Machine Learning**, **NLP**, or **Data Pipelines**
+- 📫 Reach me at: **svikram0530@gmail.com**
+- ⚡ Fun fact: I secured 2nd place in two inter-college tech competitions 🏆
 
-👯 I’m looking to collaborate on open-source projects related to healthcare, finance, or industrial AI.
+---
 
-💬 Ask me about Python, Machine Learning, NLP, or Data Pipelines.
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
 
-📫 How to reach me: svikram0530@gmail.com
+### Programming & Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
-⚡ Fun fact: I secured 2nd place in two inter-college tech competitions - Brainiac Clash-2K24 and IT Chrysalis!
+### Data Science & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
 
-🛠️ Tech Stack
-Programming & Development
+### Generative AI & NLP
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/ChromaDB-00B4D8?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+</p>
 
-Languages: Python
+### Cloud & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
-ML/DL Frameworks: Scikit-Learn, TensorFlow, Keras, PyTorch, NLTK, Hugging Face Transformers, OpenCV
+---
 
-Generative AI Stack: LangChain, RAG, LlamaIndex, LangGraph, AutoGen, OpenAI API
+<!-- Featured Projects Section -->
+## 📂 Featured Projects
 
-Web Frameworks/APIs: FastAPI, Flask, REST APIs, GraphQL
+### 🧠 Intelligent Stroke Prediction System
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramNolan/stroke-prediction) 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stroke-predictor.herokuapp.com)
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, SpaCy
+An end-to-end machine learning system to identify potential stroke risk from patient health and demographic data. The solution transforms healthcare data into actionable predictions for early risk assessment and data-driven decision-making.
 
-Databases: SQL, Vector DBs (Pinecone, Faiss, Chroma DB)
+**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
 
-Tools: Git, Docker, GitHub Actions, CI/CD, Neo4j
+---
 
-Cloud: AWS EC2, AWS S3
+### 🧬 Brain Tumor Detection from MRI Images
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramNolan/brain-tumor-detection)
 
-Data Science & AI
+A deep learning-based medical image classification system using CNN to analyze MRI images and classify brain tumor patterns. The trained model is stored in Keras format for future prediction and inference.
 
-Machine Learning, Deep Learning, Generative AI, LLMs (GPT, Gemini, LLaMA, Falcon, DeepSeek)
+**Tech Stack:** `Python` `TensorFlow` `Keras` `OpenCV` `NumPy` `Matplotlib`
 
-Natural Language Processing (NLP), Time Series Analysis, Model Deployment, Prompt Engineering
+---
 
-AI-Driven Process Automation, Predictive Modeling, Statistical Analysis, Data Visualization
+### 💰 Medical Insurance Cost Prediction System
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramNolan/insurance-cost-prediction)
 
-📂 Featured Projects
-🧠 Intelligent Stroke Prediction System
-[[Repository Link]] - [[Live Demo Link]]
+A predictive analytics solution for estimating individual medical insurance costs using demographic and lifestyle attributes. The system demonstrates how ML can support risk estimation and cost forecasting.
 
-An end-to-end machine learning system to identify potential stroke risk from patient health and demographic data. The project involved extensive data preprocessing, EDA, feature engineering, and the application of various classification algorithms to assist in early risk assessment.
+**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Seaborn`
 
-Tech Stack: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+---
 
-🧬 Brain Tumor Detection from MRI Images
-[[Repository Link]]
+### 🏭 AI-Based Predictive Maintenance (ANN)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramNolan/predictive-maintenance)
 
-A deep learning-based medical image classification system built to analyze MRI scans. A Convolutional Neural Network (CNN) was implemented to extract features and classify tumor patterns, aiding in diagnostic processes.
+An AI-powered solution using industrial sensor data (air temperature, process temperature, rotational speed, torque, tool wear) to predict potential machine failures. Uses Artificial Neural Networks for proactive maintenance strategies.
 
-Tech Stack: Python, TensorFlow, Keras, OpenCV, NumPy, Matplotlib
+**Tech Stack:** `Python` `TensorFlow` `Keras` `Pandas` `NumPy` `Scikit-Learn`
 
-💰 Medical Insurance Cost Prediction System
-[[Repository Link]]
+---
 
-A predictive analytics solution designed to estimate individual medical insurance costs based on demographic and lifestyle attributes. The project applied regression techniques to model the relationship between patient characteristics and their insurance expenses.
+<!-- Experience Section -->
+## 💼 Experience
 
-Tech Stack: Python, Pandas, NumPy, Scikit-Learn, Seaborn
+### Machine Learning - Internship Trainee
+**Phoenix Softech, Madurai** | *May 2025 - Jun 2025*
 
-🏭 AI-Based Predictive Maintenance (ANN)
-[[Repository Link]]
+- Developed and debugged Python scripts for data collection, preprocessing, and data pipeline development using `Pandas`, `NumPy`, and `Scikit-Learn`
+- Implemented reusable Python functions for ML workflows, improving code maintainability and reusability
+- Supported model testing, evaluation, debugging, and performance analysis to improve reliability
+- Worked with structured datasets, applying preprocessing and validation techniques for ML applications
 
-An AI-powered solution using industrial sensor data (temperature, torque, tool wear) to predict potential machine failures. An Artificial Neural Network (ANN) was employed to recognize patterns and enable proactive maintenance strategies.
+---
 
-Tech Stack: Python, TensorFlow, Keras, Pandas, NumPy, Scikit-Learn
+<!-- Education Section -->
+## 🎓 Education
 
-💼 Experience
-Machine Learning - Internship Trainee
-Phoenix Softech, Madurai | May 2025 - Jun 2025
+### Bachelor of Science (Information Technology)
+**Madurai Kamaraj University, Theni** | *2023 - 2026*
+- **CGPA:** 7.2
 
-Developed and debugged Python scripts for data collection, preprocessing, and data pipeline development using Pandas, NumPy, and Scikit-Learn.
+---
 
-Implemented reusable Python functions for ML workflows, improving code maintainability and reusability.
+<!-- Achievements Section -->
+## 🏆 Achievements
 
-Supported model testing, evaluation, debugging, and performance analysis to improve reliability.
+- 🥈 **2nd Place** - Brainiac Clash-2K24, Software Development Event  
+  *Mary Matha Arts & Science College* | *Mar 2025*
 
-Worked with structured datasets, applying preprocessing and validation techniques for ML applications.
+- 🥈 **2nd Place** - IT Chrysalis  
+  *Jayaraj Annapackiam College for Women* | *Sep 2024*
 
-🎓 Education
-Bachelor of Science (Information Technology)
-Madurai Kamaraj University, Theni | *2023 - 2026*
+---
 
-CGPA: 7.2
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
-🏆 Achievements
-2nd Place in Brainiac Clash-2K24, Software Development Event, Mary Matha Arts & Science College (Mar 2025).
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-2nd Place in IT Chrysalis, Jayaraj Annapackiam College for Women (Sep 2024).
+---
 
-📊 GitHub Stats
-<!-- You can add your GitHub stats cards here if you like --><!-- Example: [![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- Contribution Graph -->
+## 📈 Contribution Graph
+
+[![Vikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramNolan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/vikramnolan">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/VikramNolan">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="mailto:svikram0530@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+  
+  <p>
+    <i>⭐️ From <a href="https://github.com/VikramNolan">Vikram Nolan</a></i>
+  </p>
+</div>

@@ -1,174 +1,230 @@
-<!-- ============================================= -->
-<!-- BANNER — upload assets/banner.png to your repo -->
-<!-- ============================================= -->
-<div align="center">
-  <img src="assets/banner.png" alt="Vikram S — AI/ML Developer" width="100%" />
-</div>
+# Hi 👋, I'm Vikram S
 
-<!-- ============================================= -->
-<!-- LIVE STATUS BADGES -->
-<!-- ============================================= -->
-<div align="center">
+### 🚀 AI/ML Engineer | Machine Learning | Generative AI | LLMs | RAG
 
-[![GitHub](https://img.shields.io/badge/github.com%2FVikramS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramS)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fvikrams-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrams)
-[![Gmail](https://img.shields.io/badge/vikram.s.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.s.dev@gmail.com)
-[![Twitter](https://img.shields.io/badge/%40VikramS__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VikramS_Dev)
+I'm an aspiring **AI/ML Engineer** passionate about building practical,
+data-driven and intelligent solutions using **Machine Learning, Deep Learning,
+Generative AI and Large Language Models**.
 
-<img src="https://komarev.com/ghpvc/?username=VikramS&label=Profile%20Views&color=7B61FF&style=flat-square" alt="Profile Views" />
-
-</div>
+I work primarily with **Python** and have hands-on experience in data
+preprocessing, exploratory data analysis, feature engineering, machine learning
+model development, evaluation, and AI application development.
 
 ---
 
-## 👤 About Me
+## 👨‍💻 About Me
 
-Passionate AI/ML Developer who loves turning data into intelligence. Skilled in building scalable machine learning systems, deep learning models, and deploying AI solutions that create real impact.
-
-`🧠 Problem Solver`&nbsp;&nbsp;`📊 Data Enthusiast`&nbsp;&nbsp;`🚀 Fast Learner`&nbsp;&nbsp;`🤖 AI Builder`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VikramS&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=VikramS&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF" />
-</div>
-
-> Swap the WakaTime card above for a Grade/Commit-Score card if you'd rather show an A+ style rating — GitHub doesn't expose an official "commit score," but [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) computes a similar overall grade automatically from the stats card itself (top-right circle).
+- 🤖 Focused on **Artificial Intelligence & Machine Learning**
+- 🧠 Interested in **Generative AI, LLMs and RAG applications**
+- 🐍 Strong foundation in **Python**
+- 📊 Experienced with **Data Analysis & Machine Learning workflows**
+- 🔬 Interested in **Deep Learning & Computer Vision**
+- 🔗 Exploring **LangChain, LangGraph and LlamaIndex**
+- ⚡ Building APIs using **FastAPI & Flask**
+- ☁️ Familiar with **AWS EC2 & S3**
+- 🐳 Interested in production-oriented ML applications
+- 🎯 Goal: Build scalable and reliable **AI/ML solutions for real-world problems**
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Technical Skills
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VikramS&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
-</div>
+### 👨‍💻 Programming & Development
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 💻 Tech Stack
+### 🤖 Machine Learning & AI
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,fastapi,flask,docker,git,linux&theme=dark" />
-</div>
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+**Machine Learning • Deep Learning • Generative AI • LLMs • NLP  
+Computer Vision • Predictive Modeling • Time Series Analysis  
+Model Evaluation • Feature Engineering • Prompt Engineering**
 
-## 📚 Currently Learning
+### 🧠 Generative AI & LLM
 
-<div align="center">
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
 
-| Skill | Progress |
-|---|---|
-| LLMs & Prompt Engineering | ![80%](https://progress-bar.xyz/80/?width=200&color=babaca) |
-| Transformers & LangChain | ![70%](https://progress-bar.xyz/70/?width=200&color=babaca) |
-| MLOps & Model Deployment | ![75%](https://progress-bar.xyz/75/?width=200&color=babaca) |
-| Advanced Computer Vision | ![60%](https://progress-bar.xyz/60/?width=200&color=babaca) |
+**RAG • LLM Applications • LangChain • LangGraph • LlamaIndex  
+Hugging Face Transformers • OpenAI API • Prompt Engineering**
 
-</div>
+### 📊 Data Science
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-## 🚀 Featured Projects
+**Pandas • NumPy • Matplotlib • Seaborn • EDA • Statistical Analysis**
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 🗄️ Databases & Vector Databases
 
-**🧠 Brain Tumor Detection & Classification**
-`Python` `CNN` `ResNet50`
+**SQL • Pinecone • FAISS • ChromaDB • Neo4j**
 
-Deep learning model to detect and classify brain tumors from MRI images with high accuracy.
+### 🌐 APIs & Deployment
 
-⭐ 87 &nbsp; 🍴 28
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-</td>
-<td width="33%" valign="top">
+**REST APIs • GraphQL • FastAPI • Flask**
 
-**🚗 Road Accident Detection (YOLOv11)**
-`YOLOv11` `OpenCV` `Python`
+### ☁️ Cloud & DevOps
 
-Real-time accident detection system for smart surveillance using YOLOv11.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-⭐ 72 &nbsp; 🍴 25
-
-</td>
-<td width="33%" valign="top">
-
-**📧 AI-Based Spam Filtering System**
-`Python` `NLP` `ML`
-
-NLP & ML based spam detection model with an interactive web application.
-
-⭐ 63 &nbsp; 🍴 19
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**📉 Customer Churn Prediction**
-`Python` `ML` `XGBoost`
-
-Predicts customer churn using ML models and data-driven insights.
-
-⭐ 58 &nbsp; 🍴 18
-
-</td>
-<td width="33%" valign="top">
-
-**😴 Sleep Disorder Detection from EEG Signals**
-`CNN` `EEG` `Deep Learning`
-
-CNN model for classifying sleep disorders from EEG signal spectrograms.
-
-⭐ 66 &nbsp; 🍴 21
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 AI Assistant (RAG + LLM)**
-`LangChain` `LLM` `FAISS`
-
-Custom AI assistant using a RAG pipeline with an LLM and private document base.
-
-⭐ 74 &nbsp; 🍴 26
-
-</td>
-</tr>
-</table>
+**AWS EC2 • AWS S3 • Docker • Git • GitHub Actions • CI/CD**
 
 ---
 
-## 📈 Contribution & Activity
+# 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramS&theme=react-dark&bg_color=0D1117&color=00D4FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
+## 🧠 Intelligent Stroke Prediction System
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramS&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=7B61FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF" />
-</div>
+**Machine Learning | Python | Pandas | NumPy | Scikit-learn**
 
-<p align="center"><i>"Consistency is the compound of mastery."</i></p>
+Developed an end-to-end machine learning system to identify potential stroke
+risk using patient health and demographic attributes.
+
+### Key Work
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Classification
+- Model evaluation
+- Machine learning workflow development
+
+The project demonstrates how healthcare data can be transformed into
+actionable predictions for early risk assessment.
 
 ---
 
-## 🔗 Let's Connect
+## 🧬 Brain Tumor Detection & Classification from MRI Images
 
-<div align="center">
+**Deep Learning | TensorFlow | Keras | CNN | Computer Vision**
 
-[![GitHub](https://img.shields.io/badge/github.com%2FVikramS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramS)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fvikrams-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrams)
-[![Gmail](https://img.shields.io/badge/vikram.s.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.s.dev@gmail.com)
-[![Twitter](https://img.shields.io/badge/%40VikramS__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VikramS_Dev)
+Implemented a deep learning-based medical image classification system for
+analyzing MRI images and identifying brain tumor patterns.
 
-**"Code. Train. Optimize. Deploy. Repeat."**
-*Turning Algorithms into Real World Impact*
+### Key Work
+- MRI image preprocessing
+- Dataset organization
+- Training and testing data separation
+- CNN implementation
+- Image classification
+- Model evaluation
+- Visualization
+- Keras model storage for future inference
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B61FF&height=100&section=footer" width="100%" />
+---
 
-</div>
+## 💰 Medical Insurance Cost Prediction
+
+**Machine Learning | Python | Pandas | NumPy | Scikit-learn**
+
+Built a predictive analytics solution for estimating individual medical
+insurance costs using demographic and lifestyle-related attributes.
+
+### Key Work
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature transformation
+- Regression-based ML
+- Cost prediction
+- Data-driven insurance analysis
+
+---
+
+## 🏭 AI-Based Predictive Maintenance
+
+**Artificial Neural Network | Machine Learning | Industrial Sensor Data**
+
+Developed an AI-powered predictive maintenance solution to identify potential
+industrial machine failures before they occur.
+
+### Sensor Parameters
+- 🌡️ Air Temperature
+- 🌡️ Process Temperature
+- ⚙️ Rotational Speed
+- 🔧 Torque
+- 🛠️ Tool Wear
+
+### Key Work
+- Industrial sensor data analysis
+- Pattern identification
+- ANN-based classification
+- Machine failure prediction
+- Proactive maintenance analysis
+
+---
+
+# 💼 Experience
+
+### Machine Learning Intern — Phoenix Softech
+
+**May 2025 – June 2025**
+
+During my internship, I worked on Python-based data processing and machine
+learning workflows.
+
+### Responsibilities
+
+- Developed and debugged Python scripts for data collection and preprocessing
+- Worked with Pandas, NumPy and Scikit-learn
+- Developed reusable Python functions for data processing
+- Supported machine learning model testing and evaluation
+- Performed debugging and performance analysis
+- Applied data validation techniques to structured datasets
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science — Information Technology
+
+**Madurai Kamaraj University, Theni**
+
+**2023 – 2026 | CGPA: 7.2**
+
+---
+
+# 🏆 Achievements
+
+🥈 **2nd Place — Brainiac Clash-2K24**
+
+Software Development Competition  
+Mary Matha Arts & Science College  
+**13 March 2025**
+
+🥈 **2nd Place — IT Chrysalis**
+
+Jayaraj Annapackiam College for Women  
+**11 September 2024**
+
+---
+
+# 📚 Currently Interested In
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Generative AI
+        ↓
+Large Language Models
+        ↓
+RAG Applications
+        ↓
+AI Agents
+        ↓
+Production AI/ML Applications

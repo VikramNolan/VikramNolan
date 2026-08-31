@@ -1,230 +1,203 @@
-# Hi 👋, I'm Vikram S
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikram+S;AI%2FML+Engineer;Generative+AI+Enthusiast;LLM+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
+</div>
 
-### 🚀 AI/ML Engineer | Machine Learning | Generative AI | LLMs | RAG
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B61FF&height=200&section=header&text=Vikram%20S&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%" />
+</div>
 
-I'm an aspiring **AI/ML Engineer** passionate about building practical,
-data-driven and intelligent solutions using **Machine Learning, Deep Learning,
-Generative AI and Large Language Models**.
+<!-- Social Badges -->
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramNolan)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikram-s-9511a7292)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramnolan.github.io)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.kiit.2005@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VikramNolan)
+  
+</div>
 
-I work primarily with **Python** and have hands-on experience in data
-preprocessing, exploratory data analysis, feature engineering, machine learning
-model development, evaluation, and AI application development.
-
----
-
-## 👨‍💻 About Me
-
-- 🤖 Focused on **Artificial Intelligence & Machine Learning**
-- 🧠 Interested in **Generative AI, LLMs and RAG applications**
-- 🐍 Strong foundation in **Python**
-- 📊 Experienced with **Data Analysis & Machine Learning workflows**
-- 🔬 Interested in **Deep Learning & Computer Vision**
-- 🔗 Exploring **LangChain, LangGraph and LlamaIndex**
-- ⚡ Building APIs using **FastAPI & Flask**
-- ☁️ Familiar with **AWS EC2 & S3**
-- 🐳 Interested in production-oriented ML applications
-- 🎯 Goal: Build scalable and reliable **AI/ML solutions for real-world problems**
-
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 Machine Learning & AI
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Machine Learning • Deep Learning • Generative AI • LLMs • NLP  
-Computer Vision • Predictive Modeling • Time Series Analysis  
-Model Evaluation • Feature Engineering • Prompt Engineering**
-
-### 🧠 Generative AI & LLM
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
-
-**RAG • LLM Applications • LangChain • LangGraph • LlamaIndex  
-Hugging Face Transformers • OpenAI API • Prompt Engineering**
-
-### 📊 Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-**Pandas • NumPy • Matplotlib • Seaborn • EDA • Statistical Analysis**
-
-### 🗄️ Databases & Vector Databases
-
-**SQL • Pinecone • FAISS • ChromaDB • Neo4j**
-
-### 🌐 APIs & Deployment
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**REST APIs • GraphQL • FastAPI • Flask**
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**AWS EC2 • AWS S3 • Docker • Git • GitHub Actions • CI/CD**
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/VikramNolan?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/VikramNolan?label=Total%20Stars&style=social" alt="GitHub Stars" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 About Me
 
-## 🧠 Intelligent Stroke Prediction System
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Vikram S"
+        self.role = "AI/ML Engineer"
+        self.location = "India"
+        self.education = "B.Sc Information Technology"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "LLMs & RAG",
+            "Computer Vision"
+        ]
+    
+    def current_focus(self):
+        return {
+            "learning": ["LangGraph", "Neo4j", "Production ML"],
+            "building": "Intelligent AI applications",
+            "goal": "Scalable AI solutions for real-world problems"
+        }
+    
+    def skills(self):
+        return {
+            "languages": ["Python", "SQL", "JavaScript"],
+            "ml_ai": ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
+            "gen_ai": ["LangChain", "LlamaIndex", "RAG", "Prompt Engineering"],
+            "tools": ["FastAPI", "Flask", "Docker", "AWS"],
+            "databases": ["Pinecone", "FAISS", "ChromaDB", "PostgreSQL"]
+        }
+🧠 Technical Expertise
+<div align="center">
+💻 Languages & Frameworks
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black
 
-**Machine Learning | Python | Pandas | NumPy | Scikit-learn**
+🤖 Machine Learning & AI
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black
+https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=black
+https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=black
 
-Developed an end-to-end machine learning system to identify potential stroke
-risk using patient health and demographic attributes.
+🧠 Generative AI & LLM
+https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=black
+https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge&logo=llamaindex&logoColor=white&labelColor=black
+https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=black
+https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=black
 
-### Key Work
-- Data preprocessing
-- Exploratory Data Analysis
-- Feature engineering
-- Classification
-- Model evaluation
-- Machine learning workflow development
+☁️ Cloud & DevOps
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=black
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black
 
-The project demonstrates how healthcare data can be transformed into
-actionable predictions for early risk assessment.
+</div>
+📊 GitHub Analytics
+<div align="center"> <!-- GitHub Stats Cards --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF" /> <!-- Activity Graph --> <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=VikramNolan&theme=react-dark&bg_color=0D1117&color=00D4FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true" /> <!-- Streak Stats --> <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=7B61FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF" /></div>
+🏆 GitHub Trophies
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=VikramNolan&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15
 
----
+</div>
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+🧠 Intelligent Stroke Prediction
+ML | Python | Scikit-learn
 
-## 🧬 Brain Tumor Detection & Classification from MRI Images
+https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF
 
-**Deep Learning | TensorFlow | Keras | CNN | Computer Vision**
+End-to-end ML system for stroke risk assessment using patient health data.
 
-Implemented a deep learning-based medical image classification system for
-analyzing MRI images and identifying brain tumor patterns.
+</td> <td width="50%">
+🧬 Brain Tumor Detection
+Deep Learning | CNN | TensorFlow
 
-### Key Work
-- MRI image preprocessing
-- Dataset organization
-- Training and testing data separation
-- CNN implementation
-- Image classification
-- Model evaluation
-- Visualization
-- Keras model storage for future inference
+https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=brain-tumor-detection&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF
 
----
+CNN-based MRI image classification system for tumor detection.
 
-## 💰 Medical Insurance Cost Prediction
+</td> </tr> <tr> <td width="50%">
+💰 Medical Insurance Cost Predictor
+Regression | Feature Engineering
 
-**Machine Learning | Python | Pandas | NumPy | Scikit-learn**
+https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=insurance-cost-predictor&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF
 
-Built a predictive analytics solution for estimating individual medical
-insurance costs using demographic and lifestyle-related attributes.
+Predictive analytics for individual medical insurance costs.
 
-### Key Work
-- Data preprocessing
-- Exploratory Data Analysis
-- Feature transformation
-- Regression-based ML
-- Cost prediction
-- Data-driven insurance analysis
+</td> <td width="50%">
+🏭 Predictive Maintenance
+ANN | Industrial IoT
 
----
+https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=predictive-maintenance&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF
 
-## 🏭 AI-Based Predictive Maintenance
+AI-powered solution for industrial machine failure prediction.
 
-**Artificial Neural Network | Machine Learning | Industrial Sensor Data**
+</td> </tr> </table>
+💼 Experience
+<div align="center">
+🏢 Company	📌 Role	📅 Duration	🔧 Tech Stack
+Phoenix Softech	Machine Learning Intern	May 2025 - Jun 2025	Python, Pandas, NumPy, Scikit-learn
+</div>
+Key Contributions:
+🔹 Developed Python scripts for data collection and preprocessing
 
-Developed an AI-powered predictive maintenance solution to identify potential
-industrial machine failures before they occur.
+🔹 Built reusable functions for data processing pipelines
 
-### Sensor Parameters
-- 🌡️ Air Temperature
-- 🌡️ Process Temperature
-- ⚙️ Rotational Speed
-- 🔧 Torque
-- 🛠️ Tool Wear
+🔹 Performed model testing and performance analysis
 
-### Key Work
-- Industrial sensor data analysis
-- Pattern identification
-- ANN-based classification
-- Machine failure prediction
-- Proactive maintenance analysis
+🔹 Applied data validation techniques to structured datasets
 
----
+🎓 Education & Achievements
+<div align="center">
+🎯 Achievement	🏆 Event	📅 Date
+🥈 2nd Place	Brainiac Clash-2K24	Mar 2025
+🥈 2nd Place	IT Chrysalis	Sep 2024
+</div>
+🎓 Education
 
-# 💼 Experience
+B.Sc Information Technology — Madurai Kamaraj University (2023–2026)
 
-### Machine Learning Intern — Phoenix Softech
+CGPA: 7.2
 
-**May 2025 – June 2025**
+🌟 Tech Stack Visualization
 
-During my internship, I worked on Python-based data processing and machine
-learning workflows.
 
-### Responsibilities
 
-- Developed and debugged Python scripts for data collection and preprocessing
-- Worked with Pandas, NumPy and Scikit-learn
-- Developed reusable Python functions for data processing
-- Supported machine learning model testing and evaluation
-- Performed debugging and performance analysis
-- Applied data validation techniques to structured datasets
 
----
 
-# 🎓 Education
 
-### Bachelor of Science — Information Technology
 
-**Madurai Kamaraj University, Theni**
 
-**2023 – 2026 | CGPA: 7.2**
 
----
 
-# 🏆 Achievements
 
-🥈 **2nd Place — Brainiac Clash-2K24**
 
-Software Development Competition  
-Mary Matha Arts & Science College  
-**13 March 2025**
 
-🥈 **2nd Place — IT Chrysalis**
 
-Jayaraj Annapackiam College for Women  
-**11 September 2024**
 
----
 
-# 📚 Currently Interested In
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Generative AI
-        ↓
-Large Language Models
-        ↓
-RAG Applications
-        ↓
-AI Agents
-        ↓
-Production AI/ML Applications
+📈 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+text
+Python     ████████████░░░░░   68.4%
+Jupyter    ██████░░░░░░░░░     24.7%
+Markdown   ████░░░░░░░░░░░     4.2%
+Other      ██░░░░░░░░░░░░░     2.7%
+<!--END_SECTION:waka-->
+🎯 Current Focus
+<div align="center">
+</div>
+📫 Connect With Me
+<div align="center">
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
+
+</div>
+🐍 Snake Eating My Contributions
+<div align="center"> <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></div>
+<div align="center">
+⭐ Star the repos you like! Your support matters! ⭐
+https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B61FF&height=100&section=footer
+
+</div> ```

@@ -186,7 +186,7 @@
       <td width="50%">
         <h3 align="center">🧬 Brain Tumor Detection</h3>
         <div align="center">
-          <a href="https://github.com/VikramNolan/brain-tumor-detection">
+          <a href="https://github.com/VikramNolan/Deep-Learning-Based-Brain-Tumor-Detection-and-Classification-from-MRI-Images">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=brain-tumor-detection&theme=radical&hide_border=true" alt="Brain Tumor Detection"/>
           </a>
           <p>

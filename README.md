@@ -171,10 +171,10 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center"> Stroke Prediction </h3>
+        <h3 align="center">🧠 Stroke Prediction System</h3>
         <div align="center">
           <a href="https://github.com/VikramNolan/stroke-prediction">
-            <alt="click"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction&theme=radical&hide_border=true" alt="Stroke Prediction"/>
           </a>
           <p>
             <img src="https://img.shields.io/badge/ML-Classification-orange?style=flat-square"/>
@@ -186,8 +186,8 @@
       <td width="50%">
         <h3 align="center">🧬 Brain Tumor Detection</h3>
         <div align="center">
-          <a href="https://github.com/VikramNolan/Deep-Learning-Based-Brain-Tumor-Detection-and-Classification-from-MRI-Images">
-            <alt="Brain Tumor Detection"/>
+          <a href="https://github.com/VikramNolan/brain-tumor-detection">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=brain-tumor-detection&theme=radical&hide_border=true" alt="Brain Tumor Detection"/>
           </a>
           <p>
             <img src="https://img.shields.io/badge/DL-CNN-blue?style=flat-square"/>
@@ -202,7 +202,7 @@
         <h3 align="center">💰 Insurance Cost Prediction</h3>
         <div align="center">
           <a href="https://github.com/VikramNolan/insurance-cost-prediction">
-            <alt="Insurance Prediction"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=insurance-cost-prediction&theme=radical&hide_border=true" alt="Insurance Prediction"/>
           </a>
           <p>
             <img src="https://img.shields.io/badge/ML-Regression-green?style=flat-square"/>
@@ -215,7 +215,7 @@
         <h3 align="center">🏭 Predictive Maintenance</h3>
         <div align="center">
           <a href="https://github.com/VikramNolan/predictive-maintenance">
-            <alt="Predictive Maintenance"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=predictive-maintenance&theme=radical&hide_border=true" alt="Predictive Maintenance"/>
           </a>
           <p>
             <img src="https://img.shields.io/badge/DL-ANN-red?style=flat-square"/>

@@ -171,10 +171,10 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center"><button>click</button>button></h3>
+        <h3 align="center"> Stroke Prediction </h3>
         <div align="center">
           <a href="https://github.com/VikramNolan/stroke-prediction">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction&theme=radical&hide_border=true" alt="Stroke Prediction"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction&theme=radical&hide_border=true" alt="click"/>
           </a>
           <p>
             <img src="https://img.shields.io/badge/ML-Classification-orange?style=flat-square"/>

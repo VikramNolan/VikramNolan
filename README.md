@@ -4,368 +4,221 @@
   
   <br/>
   
-  <!-- ANIMATED BADGES -->
+  <!-- SOCIAL BADGES -->
   <a href="https://www.linkedin.com/in/vikramnolan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/VikramNolan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:svikram0530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/VikramNolan">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0A0A" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
   <br/>
   
-  <!-- ANIMATED COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=👁️%20Profile%20Views&color=0e75b6&style=flat&labelColor=0A0A0A" alt="Profile Views"/>
+  <!-- VISITOR COUNTER -->
+  <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=👁️%20Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/VikramNolan?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/VikramNolan?label=Stars&style=social" alt="Stars"/>
 </div>
 
 ---
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ABOUT ME -->
+## 👋 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <b>Vikram S</b> - Data Science & Machine Learning Professional
+</p>
+
+<p align="center">
+  🚀 Building AI solutions that solve real-world problems<br/>
+  🤖 Passionate about ML, Deep Learning, and Generative AI<br/>
+  📊 Transforming data into actionable insights<br/>
+  💡 Open to collaborations on innovative projects
+</p>
 
 ---
 
-<!-- ABOUT ME WITH ANIMATED ICONS -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <p align="left">
-          🚀 Passionate <b>Data Science & Machine Learning</b> professional<br/>
-          🤖 Building <b>AI solutions</b> that solve real-world problems<br/>
-          🧠 Exploring <b>Generative AI, LLMs, and Deep Learning</b><br/>
-          📊 Transforming <b>data</b> into actionable <b>insights</b><br/>
-          🌟 Open to <b>collaborations</b> and <b>innovative projects</b>
-        </p>
-      </td>
-      <td width="40%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-<!-- ANIMATED QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+</p>
 
 ---
 
-<!-- TECH STACK WITH ANIMATED ICONS -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> Tech Stack
+<!-- PROJECTS -->
+## 📂 Featured Projects
 
-<div align="center">
-
-### 💻 Programming & Development
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-      <br>Python
+    <td width="50%">
+      <h3>🧠 Stroke Prediction System</h3>
+      <p>Healthcare AI system for early stroke risk assessment using patient data</p>
+      <p>
+        <img src="https://img.shields.io/badge/ML-Classification-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Accuracy-92%25-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/stroke-prediction">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
-      <br>REST API
+    <td width="50%">
+      <h3>🧬 Brain Tumor Detection</h3>
+      <p>CNN-based MRI image classification for brain tumor detection</p>
+      <p>
+        <img src="https://img.shields.io/badge/DL-CNN-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Accuracy-96%25-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/brain-tumor-detection">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-      <br>Docker
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 Insurance Cost Prediction</h3>
+      <p>Regression model for predicting medical insurance costs</p>
+      <p>
+        <img src="https://img.shields.io/badge/ML-Regression-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/R²-0.88-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/insurance-cost-prediction">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65"/>
-      <br>SQL
+    <td width="50%">
+      <h3>🏭 Predictive Maintenance</h3>
+      <p>ANN-based failure prediction using industrial sensor data</p>
+      <p>
+        <img src="https://img.shields.io/badge/DL-ANN-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Precision-94%25-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/predictive-maintenance">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
 
-### 🤖 Machine Learning & AI
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn"/>
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
-      <br>OpenCV
-    </td>
-  </tr>
-</table>
+<!-- EXPERIENCE -->
+## 💼 Experience
 
-### 🧠 Generative AI & NLP
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/59722914?s=200&v=4" width="48" height="48" alt="LangChain"/>
-      <br>LangChain
-    </td>
-    <td align="center" width="96">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face"/>
-      <br>Hugging Face
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="48" height="48" alt="OpenAI"/>
-      <br>OpenAI
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LlamaIndex"/>
-      <br>LlamaIndex
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" width="48" height="48" alt="Neo4j"/>
-      <br>Neo4j
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="NLTK"/>
-      <br>NLTK
-    </td>
-  </tr>
-</table>
-
-</div>
+**Machine Learning - Internship Trainee** | *May 2025 - Jun 2025*
+- **Phoenix Softech, Madurai**
+- Developed Python scripts for data pipelines using Pandas and NumPy
+- Created reusable ML workflow functions improving maintainability
+- Enhanced model reliability through rigorous testing and evaluation
 
 ---
 
-<!-- ANIMATED PROJECTS WITH CARDS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Featured Projects
+<!-- EDUCATION -->
+## 🎓 Education
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧠 Stroke Prediction System</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/stroke-prediction">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction&theme=radical&hide_border=true" alt="Stroke Prediction"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/ML-Classification-orange?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Accuracy-92%25-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>Healthcare AI</strong> - Early risk assessment using patient data</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧬 Brain Tumor Detection</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/brain-tumor-detection">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=brain-tumor-detection&theme=radical&hide_border=true" alt="Brain Tumor Detection"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/DL-CNN-blue?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Accuracy-96%25-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>Medical Imaging</strong> - CNN-based MRI classification</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💰 Insurance Cost Prediction</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/insurance-cost-prediction">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=insurance-cost-prediction&theme=radical&hide_border=true" alt="Insurance Prediction"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/ML-Regression-green?style=flat-square"/>
-            <img src="https://img.shields.io/badge/R²-0.88-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>FinTech</strong> - Risk estimation and cost forecasting</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏭 Predictive Maintenance</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/predictive-maintenance">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=predictive-maintenance&theme=radical&hide_border=true" alt="Predictive Maintenance"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/DL-ANN-red?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Precision-94%25-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>Industrial AI</strong> - Sensor-driven failure prediction</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+**Bachelor of Science (Information Technology)**
+- **Madurai Kamaraj University, Theni** | *2023 - 2026*
+- **CGPA:** 7.2
 
 ---
 
-<!-- EXPERIENCE WITH ANIMATED TIMELINE -->
-## 💼 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30px"/> Experience
+<!-- ACHIEVEMENTS -->
+## 🏆 Achievements
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Phoenix_Softech-Internship-FF6B6B?style=for-the-badge&logo=internet&logoColor=white"/>
-        <br/>
-        <b>Machine Learning Trainee</b> | <i>May 2025 - Jun 2025</i>
-        <ul align="left">
-          <li>🚀 Developed Python scripts for data pipeline using Pandas & NumPy</li>
-          <li>⚡ Built reusable ML workflow functions improving maintainability</li>
-          <li>🔍 Enhanced model reliability through rigorous testing and evaluation</li>
-          <li>📊 Optimized data preprocessing for ML applications</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🥈 **2nd Place** - Brainiac Clash-2K24, Software Development Event | *Mar 2025*
+- 🥈 **2nd Place** - IT Chrysalis | *Sep 2024*
 
 ---
 
-<!-- EDUCATION WITH ANIMATED BADGES -->
-## 🎓 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30px"/> Education
+<!-- FIXED GITHUB STATS -->
+## 📊 GitHub Stats
+
+<!-- 
+  FIX: The stats were showing 0 because:
+  1. Your GitHub username needs to be correctly set
+  2. You need to have public repositories
+  3. The stats API needs time to cache
+-->
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png"/>
-        <br/>
-        <b>Bachelor of Science (IT)</b>
-        <br/>
-        Madurai Kamaraj University
-        <br/>
-        <img src="https://img.shields.io/badge/CGPA-7.2-00FF88?style=flat-square"/>
-        <br/>
-        <i>2023 - 2026</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- ACHIEVEMENTS WITH ANIMATED TROPHIES -->
-## 🏆 <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="30px"/> Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/color/48/000000/trophy--v1.png"/>
-        <b>🥈 2nd Place</b> - Brainiac Clash-2K24
-        <br/>
-        <i>Software Development Event, Mary Matha Arts & Science College</i>
-        <br/>
-        <img src="https://img.shields.io/badge/Date-Mar_2025-FFD700?style=flat-square"/>
-      </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/000000/trophy--v1.png"/>
-        <b>🥈 2nd Place</b> - IT Chrysalis
-        <br/>
-        <i>Jayaraj Annapackiam College for Women</i>
-        <br/>
-        <img src="https://img.shields.io/badge/Date-Sep_2024-FFD700?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- GITHUB STATS WITH ANIMATION -->
-## 📊 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px"/> GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+  <!-- Standard Stats Card -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   
-  <br/>
+  <!-- Top Languages Card -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramNolan&theme=radical&hide_border=true" alt="GitHub Streak"/>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramNolan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=VikramNolan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph"/>
+  <!-- Contribution Graph -->
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=VikramNolan&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-<!-- ANIMATED WAVY FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+<!-- ALTERNATIVE STATS CARDS (If above doesn't work) -->
+## 📈 Alternative Stats
 
----
-
-<!-- SNAKE ANIMATION (CONTRIBUTION) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VikramNolan/VikramNolan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VikramNolan/VikramNolan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VikramNolan/VikramNolan/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- If the main stats don't work, use these -->
+  <img width="49%" src="https://stats.quira.sh/VikramNolan?theme=dark" alt="Quira Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=VikramNolan&theme=radical&hide_border=true" alt="WakaTime Stats"/>
 </div>
 
 ---
 
-<!-- SOCIAL CONNECT WITH ANIMATION -->
-## 🤝 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Let's Connect
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vikramnolan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
-  </a>
+  <img src="https://github.com/VikramNolan/VikramNolan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+---
+
+## 🛠️ Fix Instructions
+
+### Problem: Stats showing 0
+**Solution:**
+
+1. **Make your repositories public** (if private, stats won't show)
+2. **Add a star to your own repos** to help API recognize them
+3. **Wait 24-48 hours** for the stats API to cache your data
+4. **Check your username spelling** - must match exactly
+
+### Alternative Fix: Custom Stats
+If the above doesn't work, use this fallback:
+
+```markdown
+<!-- Custom Stats Card -->
+<div align="center">
   <a href="https://github.com/VikramNolan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
-  </a>
-  <a href="https://twitter.com/VikramNolan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A"/>
-  </a>
-  <a href="https://discord.com/users/VikramNolan">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A"/>
-  </a>
-  <a href="https://www.youtube.com/c/VikramNolan">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0A0A"/>
-  </a>
-  
-  <br/>
-  <br/>
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100"/>
-  <br/>
-  <b>Thanks for visiting! ⭐</b>
-</div>
-
-<!-- ANIMATED SUPPORT -->
-<div align="center">
-  <a href="https://www.buymeacoffee.com/VikramNolan">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=VikramNolan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical" alt="Stats"/>
   </a>
 </div>

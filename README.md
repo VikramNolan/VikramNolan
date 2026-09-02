@@ -174,7 +174,7 @@
         <h3 align="center"> Stroke Prediction </h3>
         <div align="center">
           <a href="https://github.com/VikramNolan/stroke-prediction">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction&theme=radical&hide_border=true" alt="click"/>
+            <img src="https://www.flaticon.com/free-icon/stroke_15169651?term=stroke&page=1&position=4&origin=tag&related_id=15169651" alt="click"/>
           </a>
           <p>
             <img src="https://img.shields.io/badge/ML-Classification-orange?style=flat-square"/>

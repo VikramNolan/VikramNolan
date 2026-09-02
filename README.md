@@ -168,66 +168,56 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧠 Stroke Prediction System</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/stroke-prediction">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=stroke-prediction&theme=radical&hide_border=true" alt="Stroke Prediction"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/ML-Classification-orange?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Accuracy-92%25-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>Healthcare AI</strong> - Early risk assessment using patient data</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧬 Brain Tumor Detection</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/brain-tumor-detection">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=brain-tumor-detection&theme=radical&hide_border=true" alt="Brain Tumor Detection"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/DL-CNN-blue?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Accuracy-96%25-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>Medical Imaging</strong> - CNN-based MRI classification</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💰 Insurance Cost Prediction</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/insurance-cost-prediction">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=insurance-cost-prediction&theme=radical&hide_border=true" alt="Insurance Prediction"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/ML-Regression-green?style=flat-square"/>
-            <img src="https://img.shields.io/badge/R²-0.88-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>FinTech</strong> - Risk estimation and cost forecasting</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏭 Predictive Maintenance</h3>
-        <div align="center">
-          <a href="https://github.com/VikramNolan/predictive-maintenance">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=predictive-maintenance&theme=radical&hide_border=true" alt="Predictive Maintenance"/>
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/DL-ANN-red?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Precision-94%25-brightgreen?style=flat-square"/>
-          </p>
-          <p><strong>Industrial AI</strong> - Sensor-driven failure prediction</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
+ <table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Stroke Prediction System</h3>
+      <p>Healthcare AI system for early stroke risk assessment using patient data</p>
+      <p>
+        <img src="https://img.shields.io/badge/ML-Classification-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Accuracy-92%25-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/stroke-prediction">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧬 Brain Tumor Detection</h3>
+      <p>CNN-based MRI image classification for brain tumor detection</p>
+      <p>
+        <img src="https://img.shields.io/badge/DL-CNN-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Accuracy-96%25-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/brain-tumor-detection">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 Insurance Cost Prediction</h3>
+      <p>Regression model for predicting medical insurance costs</p>
+      <p>
+        <img src="https://img.shields.io/badge/ML-Regression-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/R²-0.88-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/insurance-cost-prediction">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🏭 Predictive Maintenance</h3>
+      <p>ANN-based failure prediction using industrial sensor data</p>
+      <p>
+        <img src="https://img.shields.io/badge/DL-ANN-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Precision-94%25-brightgreen?style=flat-square"/>
+      </p>
+      <a href="https://github.com/VikramNolan/predictive-maintenance">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 <!-- EXPERIENCE WITH ANIMATED TIMELINE -->

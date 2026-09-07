@@ -22,6 +22,8 @@ jobs:
         with:
           github_user_name: VikramNolan
           outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/snake.svg?color_snake=green&color_dots=#bfd6ff,#8db4ff,#3d7bf7,#0a3bb8,#051a4a
 
       - name: Push Snake to output branch

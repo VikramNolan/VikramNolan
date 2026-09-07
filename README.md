@@ -1,26 +1,18 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CBF,100:051A4A&height=220&section=header&text=Vikram%20S&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineer&descSize=20&descAlignColor=00F7FF&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CBF,100:051A4A&height=200&section=header&text=Vikram%20S&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineer&descSize=18&descAlignColor=00F7FF&descAlign=68" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Transforming+Data+into+Intelligent+AI+Solutions;%F0%9F%A7%A0+Specializing+in+GenAI%2C+LLMs+%26+Deep+Learning;%F0%9F%93%8A+Building+Predictive+Models+%26+Neural+Networks;%F0%9F%92%A1+Welcome+to+my+Engineering+Portfolio!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Transforming+Data+into+Intelligent+AI+Solutions;%F0%9F%A7%A0+Specializing+in+GenAI%2C+LLMs+%26+Deep+Learning;%F0%9F%93%8A+Building+Predictive+Models+%26+Neural+Networks;%F0%9F%92%A1+Welcome+to+my+Engineering+Portfolio!" alt="Typing SVG"/>
   
   <br/><br/>
   
   <!-- QUICK BADGES -->
-  <a href="https://www.linkedin.com/in/vikramnolan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/VikramNolan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/>
-  </a>
-  <a href="mailto:svikram0530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/VikramNolan">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0A0A" alt="Portfolio"/>
-  </a>
+  <a href="https://www.linkedin.com/in/vikramnolan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/></a>
+  <a href="https://github.com/VikramNolan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/></a>
+  <a href="mailto:svikram0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/></a>
+  <a href="https://github.com/VikramNolan"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0A0A" alt="Portfolio"/></a>
   
   <br/><br/>
   
@@ -339,21 +331,11 @@
 ## 🤝 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vikramnolan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/VikramNolan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/>
-  </a>
-  <a href="mailto:svikram0530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/VikramNolan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A" alt="Twitter"/>
-  </a>
-  <a href="https://discord.com/users/VikramNolan">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A" alt="Discord"/>
-  </a>
+  <a href="https://www.linkedin.com/in/vikramnolan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/></a>
+  <a href="https://github.com/VikramNolan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/></a>
+  <a href="mailto:svikram0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/></a>
+  <a href="https://twitter.com/VikramNolan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A" alt="Twitter"/></a>
+  <a href="https://discord.com/users/VikramNolan"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A" alt="Discord"/></a>
   
   <br/><br/>
   

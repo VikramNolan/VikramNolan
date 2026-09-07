@@ -1,22 +1,22 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CBF,100:051A4A&height=200&section=header&text=Vikram%20S&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineer&descSize=18&descAlignColor=00F7FF&descAlign=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CBF,100:051A4A&height=200&section=header&text=Vikram%20S&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%2FML%20Engineer%20%7C%20Building%20AI%20Products%20%26%20Agents&descSize=18&descAlignColor=00F7FF&descAlign=68" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Transforming+Data+into+Intelligent+AI+Solutions;%F0%9F%A7%A0+Specializing+in+GenAI%2C+LLMs+%26+Deep+Learning;%F0%9F%93%8A+Building+Predictive+Models+%26+Neural+Networks;%F0%9F%92%A1+Welcome+to+my+Engineering+Portfolio!" alt="Typing SVG"/>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%A7%A0+AI%2FML+Engineer+%E2%80%A2+GenAI+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+Deep+Learning;%F0%9F%A4%96+Building+Intelligent+AI+Agents+%26+Predictive+Systems;%F0%9F%9A%80+Transforming+Complex+Data+into+Deployable+AI+Solutions!" alt="Typing SVG"/>
+
   <br/><br/>
-  
+
   <!-- QUICK BADGES -->
   <a href="https://www.linkedin.com/in/vikramnolan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/></a>
   <a href="https://github.com/VikramNolan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/></a>
   <a href="mailto:svikram0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/></a>
   <a href="https://github.com/VikramNolan"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0A0A" alt="Portfolio"/></a>
-  
+
   <br/><br/>
-  
-  <!-- PROFILE COUNTERS & BADGES -->
+
+  <!-- METRICS -->
   <img src="https://komarev.com/ghpvc/?username=VikramNolan&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=00F7FF&style=flat-square&labelColor=0D1117" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/VikramNolan?label=Followers&color=7B2CBF&style=flat-square&labelColor=0D1117" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/VikramNolan?label=Stars&color=FF5722&style=flat-square&labelColor=0D1117" alt="Stars"/>
@@ -24,27 +24,21 @@
 
 ---
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
-<!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> About Me
+<!-- ABOUT ME -->
+## 🤖 About Me
 
 <div align="center">
   <table>
     <tr>
       <td width="60%" valign="top">
         <p align="left">
-          👋 Hi! I'm <b>Vikram S</b>, a driven <b>Data Science & AI Engineer</b> passionate about creating state-of-the-art machine learning models, intelligent agent systems, and deep learning architectures.
+          👋 Hi! I'm <b>Vikram S</b>, an <b>AI/ML Engineer</b> specializing in building <b>Generative AI products</b>, <b>autonomous AI agents</b>, fine-tuning large language models (LLMs), and developing robust deep learning pipelines.
         </p>
         <ul align="left">
-          <li>🚀 <b>Focus Areas</b>: Machine Learning, Deep Learning, Generative AI & RAG Pipelines</li>
-          <li>🧠 <b>Current Endeavors</b>: Fine-tuning Open Source LLMs & Building Predictive Healthcare Models</li>
-          <li>📊 <b>Core Expertise</b>: Exploratory Data Analysis, Neural Networks, Computer Vision & MLOps</li>
-          <li>🌱 <b>Learning</b>: Advanced Agentic Workflows, Vector Databases & Graph Neural Networks</li>
-          <li>💼 <b>Open For</b>: AI/ML Engineering Roles, Data Science Collaborations & Open Source Projects</li>
+          <li>🧠 <b>Core Focus</b>: Generative AI, LLM Fine-Tuning, RAG Pipelines & AI Agents</li>
+          <li>🔥 <b>Deep Learning</b>: PyTorch, TensorFlow, CNNs, Transformers & Computer Vision</li>
+          <li>📊 <b>Data Science</b>: Feature Engineering, Model Optimization, Exploratory Data Analysis</li>
+          <li>💼 <b>Open For</b>: AI/ML Engineering Opportunities & High-Impact Collaborations</li>
         </ul>
       </td>
       <td width="40%" align="center" valign="middle">
@@ -54,127 +48,51 @@
   </table>
 </div>
 
-<!-- RANDOM DEV QUOTE -->
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏆 <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="30px"/> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VikramNolan&theme=radical&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 <!-- TECH STACK -->
-## 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> Tech Stack & Toolkit
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Languages & Development
+### 🤖 Generative AI, LLMs & AI Agents
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-      <br/><b>Python</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="SQL"/>
-      <br/><b>SQL</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="REST API"/>
-      <br/><b>REST API</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-      <br/><b>Docker</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-      <br/><b>Git</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
-      <br/><b>AWS</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+</p>
 
-### 🤖 Machine Learning & Deep Learning
+### 🧠 Machine Learning & Deep Learning
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
-      <br/><b>TensorFlow</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
-      <br/><b>PyTorch</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-Learn"/>
-      <br/><b>Scikit-Learn</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-      <br/><b>Pandas</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-      <br/><b>NumPy</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
-      <br/><b>OpenCV</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
 
-### 🧠 Generative AI, LLMs & Vector DBs
+### ⚙️ DevOps, Cloud & Databases
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://avatars.githubusercontent.com/u/59722914?s=200&v=4" width="50" height="50" alt="LangChain"/>
-      <br/><b>LangChain</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
-      <br/><b>Hugging Face</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="50" height="50" alt="OpenAI"/>
-      <br/><b>OpenAI</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LlamaIndex"/>
-      <br/><b>LlamaIndex</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" width="50" height="50" alt="Neo4j"/>
-      <br/><b>Neo4j</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter"/>
-      <br/><b>Jupyter</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🚀 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Featured Projects
+<!-- FEATURED REPOSITORIES -->
+## 🔥 Featured AI & ML Projects
 
 <div align="center">
   <table>
@@ -189,7 +107,7 @@
             <img src="https://img.shields.io/badge/ML-Classification-FF5722?style=flat-square"/>
             <img src="https://img.shields.io/badge/Accuracy-92%25-00F7FF?style=flat-square"/>
           </p>
-          <p align="left">🏥 <b>Healthcare AI</b>: Early stroke risk assessment using predictive classification models trained on clinical patient metrics.</p>
+          <p align="left">🏥 Early stroke risk prediction using clinical patient data and Machine Learning classification models.</p>
         </div>
       </td>
       <td width="50%" valign="top">
@@ -202,7 +120,7 @@
             <img src="https://img.shields.io/badge/DL-CNN-7B2CBF?style=flat-square"/>
             <img src="https://img.shields.io/badge/Accuracy-96%25-00F7FF?style=flat-square"/>
           </p>
-          <p align="left">🔬 <b>Medical Imaging</b>: Deep Convolutional Neural Network (CNN) architecture for multi-class MRI scan tumor detection.</p>
+          <p align="left">🔬 Deep Learning CNN model for automated multi-class MRI scan brain tumor classification.</p>
         </div>
       </td>
     </tr>
@@ -217,11 +135,11 @@
             <img src="https://img.shields.io/badge/ML-Regression-0077B5?style=flat-square"/>
             <img src="https://img.shields.io/badge/R%C2%B2-0.88-00F7FF?style=flat-square"/>
           </p>
-          <p align="left">💵 <b>FinTech AI</b>: Supervised machine learning model for accurate medical insurance premium estimation and risk modeling.</p>
+          <p align="left">💵 Predictive regression model for medical insurance cost estimation and risk modeling.</p>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🏭 Predictive Maintenance System</h3>
+        <h3 align="center">🏭 Predictive Maintenance</h3>
         <div align="center">
           <a href="https://github.com/VikramNolan/predictive-maintenance">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikramNolan&repo=predictive-maintenance&theme=radical&hide_border=true" alt="Predictive Maintenance"/>
@@ -230,7 +148,7 @@
             <img src="https://img.shields.io/badge/DL-ANN-D14836?style=flat-square"/>
             <img src="https://img.shields.io/badge/Precision-94%25-00F7FF?style=flat-square"/>
           </p>
-          <p align="left">⚙️ <b>Industrial IoT</b>: Sensor telemetry failure detection using Artificial Neural Networks (ANN) to prevent equipment downtime.</p>
+          <p align="left">⚙️ Deep Artificial Neural Networks (ANN) predicting industrial sensor equipment failures.</p>
         </div>
       </td>
     </tr>
@@ -239,68 +157,8 @@
 
 ---
 
-<!-- WORK EXPERIENCE -->
-## 💼 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30px"/> Work Experience
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Phoenix_Softech-Internship-00F7FF?style=for-the-badge&logo=codeforces&logoColor=black"/>
-        <br/><br/>
-        <b>Machine Learning Trainee</b> | <i>May 2025 – Jun 2025</i>
-        <ul align="left">
-          <li>⚡ Developed modular Python data extraction and preprocessing pipelines leveraging Pandas & NumPy.</li>
-          <li>📊 Formulated exploratory data analysis (EDA) techniques to identify key features for model optimization.</li>
-          <li>🤖 Trained and evaluated baseline classification/regression algorithms, achieving high validation metrics.</li>
-          <li>🔍 Conducted hyperparameter tuning and model cross-validation for enhanced reliability.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- EDUCATION & ACHIEVEMENTS -->
-## 🎓 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30px"/> Education & Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🎓 Education</h3>
-        <img src="https://img.icons8.com/fluency/64/000000/graduation-cap.png" alt="Graduation Cap"/>
-        <br/>
-        <b>Bachelor of Science in Information Technology (B.Sc IT)</b>
-        <br/>
-        <i>Madurai Kamaraj University</i>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/CGPA-7.2-00F7FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Duration-2023_--_2026-7B2CBF?style=flat-square"/>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🏆 Honors & Awards</h3>
-        <p align="left">
-          <b>🥈 2nd Place – Brainiac Clash 2K24</b><br/>
-          <i>Software Development Event | Mary Matha Arts & Science College</i><br/>
-          <img src="https://img.shields.io/badge/Date-Mar_2025-FF5722?style=flat-square"/>
-        </p>
-        <hr/>
-        <p align="left">
-          <b>🥈 2nd Place – IT Chrysalis</b><br/>
-          <i>Tech Symposium | Jayaraj Annapackiam College for Women</i><br/>
-          <img src="https://img.shields.io/badge/Date-Sep_2024-FF5722?style=flat-square"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <!-- GITHUB ANALYTICS -->
-## 📊 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VikramNolan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats"/>
@@ -315,7 +173,7 @@
 ---
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
-## 🐍 Contribution Graph & Snake Animation
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -327,31 +185,17 @@
 
 ---
 
-<!-- CONNECT & FOOTER -->
-## 🤝 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Connect With Me
+<!-- CONNECT -->
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vikramnolan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/></a>
   <a href="https://github.com/VikramNolan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/></a>
   <a href="mailto:svikram0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/></a>
-  <a href="https://twitter.com/VikramNolan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A" alt="Twitter"/></a>
-  <a href="https://discord.com/users/VikramNolan"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A" alt="Discord"/></a>
   
   <br/><br/>
   
   <a href="https://www.buymeacoffee.com/VikramNolan">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=VikramNolan&button_colour=FF5722&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"/>
   </a>
-  
-  <br/><br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="80" alt="Bye GIF"/>
-  <br/>
-  <b>Thanks for visiting my profile! ⭐ Feel free to star any repos you like!</b>
-</div>
-
-<br/>
-
-<!-- ANIMATED FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051A4A,50:7B2CBF,100:00F7FF&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>

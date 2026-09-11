@@ -1,7 +1,4 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CBF,100:051A4A&height=200&section=header&text=Vikram%20S&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%2FML%20Engineer%20%7C%20Building%20AI%20Products%20%26%20Agents&descSize=18&descAlignColor=00F7FF&descAlign=68" width="100%"/>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%A7%A0+AI%2FML+Engineer+%E2%80%A2+GenAI+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+Deep+Learning;%F0%9F%A4%96+Building+Intelligent+AI+Agents+%26+Predictive+Systems;%F0%9F%9A%80+Transforming+Complex+Data+into+Deployable+AI+Solutions!" alt="Typing SVG"/>
